@@ -1,4 +1,4 @@
---- This script will keep yours players Morale at 120 (Max, Complacent)
+--- This script will keep yours players Morale at 100 (Very Happy)
 
 require 'imports/career_mode/enums'
 require 'imports/career_mode/helpers'
